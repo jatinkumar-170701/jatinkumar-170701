@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Kumar</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="500" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkumar-170701&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkumar-170701" /> </p>
 
@@ -33,4 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinkumar-170701&show_icons=true&locale=en" alt="jatinkumar-170701" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkumar-170701&" alt="jatinkumar-170701" /></p>
-![logo](https://github.com/jatinkumar-170701/jatinkumar-170701/blob/main/Github%20logo.png)
+
